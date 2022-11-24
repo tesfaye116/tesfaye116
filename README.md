@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hope_love_war" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hope_love_war" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/tesfaye-girma-91b2a9236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tesfaye-girma-91b2a9236" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tesfaye-girma-91b2a9236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tesfaye-girma-91b2a9236" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@tesfayegirma360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tesfayegirma360" height="30" width="40" /></a>
 </p>
 

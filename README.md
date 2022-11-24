@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tesfaye Girma</h1>
-<h3 align="center">A passionate Full-stack Web-developer developer from Ethiopia 🇪🇹</h3>
+<h3 align="center">A passionate full-stack developer from Ethiopia 🇪🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tesfaye116&label=Profile%20views&color=0e75b6&style=flat" alt="tesfaye116" /> </p>
 

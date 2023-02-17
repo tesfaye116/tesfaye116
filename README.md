@@ -2,27 +2,6 @@
 <h3 align="center">A Passionate FullStack developer from Ethiopia 🇪🇹</h3>
 
 
-
-<p align="left"> <a href="https://twitter.com/hope_love_war" target="blank"><img src="https://img.shields.io/twitter/follow/hope_love_war?logo=twitter&style=for-the-badge" alt="@hope_love_war" /></a> </p>
-
-- 🔭 I’m currently working on [Esset HR / React](https://github.com/abrahamgkidan/essethr-lenovo-backup-client)
-
-- 🌱 I’m currently learning **React, MongoDB**
-
-- 👯 I’m looking to collaborate on [Social Media Automations / Selenium](https://github.com/tesfaye116/seleinum_automations)
-
-- 🤝 I’m looking for help with [Express Api / NodeJs](https://github.com/tesfaye116/messenger-BackEnd)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-tesfaye116.vercel.app/](https://portfolio-tesfaye116.vercel.app/)
-
-- 💬 Ask me about **React, Python,JavaScript, Linux**
-
-- 📫 How to reach me **tesfayegirma360@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tdqQUXSXerRn_o6Ml0Ac9v0-dbwzVGZk/view?usp=sharing](https://drive.google.com/file/d/1tdqQUXSXerRn_o6Ml0Ac9v0-dbwzVGZk/view?usp=sharing)
-
-- ⚡ Fun fact **i'm Hilarious**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hope_love_war" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hope_love_war" height="30" width="40" /></a>
